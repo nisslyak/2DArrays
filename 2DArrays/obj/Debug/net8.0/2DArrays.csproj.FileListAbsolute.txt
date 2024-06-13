@@ -1,0 +1,14 @@
+C:\Users\aapod\source\repos\2DArrays\2DArrays\bin\Debug\net8.0\2DArrays.exe
+C:\Users\aapod\source\repos\2DArrays\2DArrays\bin\Debug\net8.0\2DArrays.deps.json
+C:\Users\aapod\source\repos\2DArrays\2DArrays\bin\Debug\net8.0\2DArrays.runtimeconfig.json
+C:\Users\aapod\source\repos\2DArrays\2DArrays\bin\Debug\net8.0\2DArrays.dll
+C:\Users\aapod\source\repos\2DArrays\2DArrays\bin\Debug\net8.0\2DArrays.pdb
+C:\Users\aapod\source\repos\2DArrays\2DArrays\obj\Debug\net8.0\2DArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aapod\source\repos\2DArrays\2DArrays\obj\Debug\net8.0\2DArrays.AssemblyInfoInputs.cache
+C:\Users\aapod\source\repos\2DArrays\2DArrays\obj\Debug\net8.0\2DArrays.AssemblyInfo.cs
+C:\Users\aapod\source\repos\2DArrays\2DArrays\obj\Debug\net8.0\2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\aapod\source\repos\2DArrays\2DArrays\obj\Debug\net8.0\2DArrays.dll
+C:\Users\aapod\source\repos\2DArrays\2DArrays\obj\Debug\net8.0\refint\2DArrays.dll
+C:\Users\aapod\source\repos\2DArrays\2DArrays\obj\Debug\net8.0\2DArrays.pdb
+C:\Users\aapod\source\repos\2DArrays\2DArrays\obj\Debug\net8.0\2DArrays.genruntimeconfig.cache
+C:\Users\aapod\source\repos\2DArrays\2DArrays\obj\Debug\net8.0\ref\2DArrays.dll
